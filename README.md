@@ -1,7 +1,7 @@
 MvcFramework 
 ============
 
-In 2013 I was asked to write an in-house PHP web framework. This is that framework. It look me 9 months of full time work to write. Note; this code is no longer in production and has no future use. It is here purely as a way to archive the work and to provide historical reference.
+In 2013 I was asked to write an in-house PHP web framework. This is that framework. It look me 9 months of full time work to write. Note; this code is no longer in production and has no future use. It is here purely as a way to archive the work and to provide historical reference. There is no business logic within the code.
 
 ## Original notes:
 
